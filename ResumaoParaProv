@@ -1,4 +1,4 @@
-	    // laço de repetição
+	// laço de repetição
       
 //while
   while(variavel = 0){
@@ -9,13 +9,13 @@
   for(int variavel = 0; variavel = 0; variavel++){
   System.out.println("Igual a 0")
   }
-      // condição
+	// condição
       
 //if
   if(variavel = 0){
   System.out.println("Igual a 0")
   }
-      // String
+	// String
       
 //criar uma String
   String Frase = "Frase dentro da String"
@@ -26,7 +26,7 @@
 //site com os codigos de Strings
 https://www.devmedia.com.br/trabalhando-com-string-string-em-java/21737
 
-      // Vetores
+	// Vetores
 
 //declaração de vetores
   int[] vetor;
@@ -35,7 +35,7 @@ https://www.devmedia.com.br/trabalhando-com-string-string-em-java/21737
 //tamanho do vetor
   Varivel = vetor.lenght();
 
-      // Função
+	// Função
       
 //Como se escreve
   static int função(int p1, int p2){
